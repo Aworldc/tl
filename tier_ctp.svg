@@ -1,0 +1,28 @@
+<!-- Allan's Tier List Template - https://github.com/Aworldc -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 596 720">
+    <path id="background" d="M0 0h596v720H0z" style="fill: #24273a; fill-opacity: 1;"/>
+
+    <rect id="f-shelf" width="450" height="96" x="140" y="618" rx="48" style="fill: #181926; fill-opacity: 1;"/>
+    <rect id="e-shelf" width="450" height="96" x="140" y="516" rx="48" style="fill: #181926; fill-opacity: 1;"/>
+    <rect id="d-shelf" width="450" height="96" x="140" y="414" rx="48" style="fill: #181926; fill-opacity: 1;"/>
+    <rect id="c-shelf" width="450" height="96" x="140" y="312" rx="48" style="fill: #181926; fill-opacity: 1;"/>
+    <rect id="b-shelf" width="450" height="96" x="140" y="210" rx="48" style="fill: #181926; fill-opacity: 1;"/>
+    <rect id="a-shelf" width="450" height="96" x="140" y="108" rx="48" style="fill: #181926; fill-opacity: 1;"/>
+    <rect id="s-shelf" width="450" height="96" x="140" y="6"   rx="48" style="fill: #181926; fill-opacity: 1;"/>
+
+    <rect id="f-backg" width="128" height="96" x="6" y="618" rx="48" style="fill: #8cc7e2; fill-opacity: 1;"/>
+    <rect id="e-backg" width="128" height="96" x="6" y="516" rx="48" style="fill: #9bd6cd; fill-opacity: 1;"/>
+    <rect id="d-backg" width="128" height="96" x="6" y="414" rx="48" style="fill: #b7e7ab; fill-opacity: 1;"/>
+    <rect id="c-backg" width="128" height="96" x="6" y="312" rx="48" style="fill: #f1d59c; fill-opacity: 1;"/>
+    <rect id="b-backg" width="128" height="96" x="6" y="210" rx="48" style="fill: #edb987; fill-opacity: 1;"/>
+    <rect id="a-backg" width="128" height="96" x="6" y="108" rx="48" style="fill: #f1a283; fill-opacity: 1;"/>
+    <rect id="s-backg" width="128" height="96" x="6" y="6"   rx="48" style="fill: #ed8796; fill-opacity: 1;"/>
+    
+    <text id="f-label" x="60" y="678" style="font-weight:400; font-size: 32px; font-family:'Liberation Mono'; fill: #333; fill-opacity: 1;">F</text>
+    <text id="e-label" x="60" y="576" style="font-weight:400; font-size: 32px; font-family:'Liberation Mono'; fill: #333; fill-opacity: 1;">E</text>
+    <text id="d-label" x="60" y="474" style="font-weight:400; font-size: 32px; font-family:'Liberation Mono'; fill: #333; fill-opacity: 1;">D</text>
+    <text id="c-label" x="61" y="372" style="font-weight:400; font-size: 32px; font-family:'Liberation Mono'; fill: #333; fill-opacity: 1;">C</text>
+    <text id="b-label" x="60" y="269" style="font-weight:400; font-size: 32px; font-family:'Liberation Mono'; fill: #333; fill-opacity: 1;">B</text>
+    <text id="a-label" x="60" y="168" style="font-weight:400; font-size: 32px; font-family:'Liberation Mono'; fill: #333; fill-opacity: 1;">A</text>
+    <text id="s-label" x="60" y="66"  style="font-weight:400; font-size: 32px; font-family:'Liberation Mono'; fill: #333; fill-opacity: 1;">S</text>
+</svg>
